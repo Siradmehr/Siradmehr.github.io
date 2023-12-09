@@ -120,5 +120,4 @@ The Result will be published soon.
 * Sensors and Measurement: Fall 2021-23
 ## Preprint and Publications
 * Clinical IoT in Practice: A Novel Design and Implementation of a Multi-functional Digital Stethoscope for Remote Health Monitoring | [Techrxiv](https://www.techrxiv.org/articles/preprint/Clinical_IoT_in_Practice_A_Novel_Design_and_Implementation_of_a_Multi-functional_Digital_Stethoscope_for_Remote_Health_Monitoring/24459988/1/files/42993262.pdf) | 2023
-* Semi-supervised Learning under Self-training via $f$-Divergence | [OpenReview](https://openreview.net/forum?id=3cZuCyJSe7&noteId=3cZuCyJSe7) | 2023
 There are some drafts under review. [Contact](/Contact/) with me to have access to them.
