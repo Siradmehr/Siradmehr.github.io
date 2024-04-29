@@ -10,7 +10,7 @@
     </p>
     In my free time, I enjoy fallowing sports and I'm huge fan of Bayern Munich, Golden State Warriors, Redbull F1 team and recently Yankees.
     <p>
-   You can reach me at <code>radmehr.karimian@gmail.com</code>. A copy of my CV is available <a href="assets/MyCv.pdf"> here</a>.
+   You can reach me at <code>radmehr.karimian@gmail.com</code>. A copy of my CV is available <a href="assets/Cv.pdf"> here</a>.
     <div style="clear: both"></div>      
   </div>
 </div>
