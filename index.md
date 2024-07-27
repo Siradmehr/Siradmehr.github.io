@@ -6,7 +6,7 @@
   <div class="container">
     <img class="left" src="assets/me.jpg" height=300px>
     <p>
-    I am a Senior Bachelor student in the Sharif University of Technology Electrical Engineering Department. My research interests include Statistical Learning and Inferences.<br>
+    I am an incoming PhD student in Statistics at <a href="https://www.columbia.edu/">Columbia University</a>. I recently graduated from the Sharif University of Technology with a degree in Electrical Engineering. My research interests include Statistical Learning and Inferences.<br>
     </p>
     In my free time, I enjoy fallowing sports and I'm huge fan of Bayern Munich, Golden State Warriors, Redbull F1 team and recently Yankees.
     <p>
