@@ -1,0 +1,4 @@
+Sitemap: https://siradmehr.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
