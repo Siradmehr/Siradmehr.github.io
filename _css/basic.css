@@ -189,3 +189,33 @@ td {
 table tbody tr td {
   border: 1px solid lightgray;
 }
+
+/* Center the homepage profile icons without changing the Franklin layout. */
+.franklin-content .profile-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  margin: 3rem 0 0;
+}
+
+.profile-links a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+}
+
+.franklin-content .profile-links img {
+  display: block;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+}
+
+.profile-links a:hover { opacity: 0.7; }
+.profile-links a:focus-visible {
+  outline: 2px solid #004de6;
+  outline-offset: 4px;
+}

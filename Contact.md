@@ -1,19 +1,10 @@
-+++
-title = "Contact"
-+++
+@def title = "Contact"
 
-Feel free to get in touch with me using the following contact information:
+# Contact
 
-- Email: radmehr.karimian@gmail.com
-- Educational Email : radmehr.karimian@columbia.edu
-You can also connect with me on social media:
-~~~
-<div class="wrapper">
-    <a href=https://www.linkedin.com/in/radmehrkarimian/> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50" class="filter-blue"> </a> 
+Feel free to get in touch about research and collaborations.
 
-    <a href=https://github.com/Siradmehr> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50"> </a>
+- ETH email: [rkarimian@ethz.ch](mailto:rkarimian@ethz.ch)
+- Personal email: [radmehr.karimian@gmail.com](mailto:radmehr.karimian@gmail.com)
 
-    <a href=https://scholar.google.com/citations?user=T26-weIAAAAJ&hl=en&oi=ao> <img src="https://img.icons8.com/?size=100&id=pU44R9xgF3wq&format=png&color=000000" width="50" height="50"> </a>
-</div>
-~~~
-I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
+You can also find me on [Google Scholar](https://scholar.google.com/citations?user=T26-weIAAAAJ&hl=en&oi=ao), [GitHub](https://github.com/Siradmehr), and [LinkedIn](https://www.linkedin.com/in/radmehrkarimian/).
