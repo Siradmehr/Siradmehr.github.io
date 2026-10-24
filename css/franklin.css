@@ -6,7 +6,7 @@
   --block-background: hsl(0, 0%, 94%);
   --output-background: hsl(0, 0%, 98%);
   --small: 14px;
-  --normal: 19px;
+  --normal: 18px;
   --text-color: hsv(0, 0%, 20%);
 }
 
@@ -84,7 +84,7 @@ html {
   position: relative;
   padding-left: 12.5%;
   padding-right: 12.5%;
-  line-height: 1.35em;
+  line-height: 1.6;
 }
 
 /* On wide screens, fix content width to a max value. */
@@ -188,7 +188,7 @@ td {
 }
 
 .franklin-content a {
-  color: #004de6;
+  color: #245580;
   text-decoration: none;
 }
 

@@ -18,7 +18,7 @@ nav li {
 }
 
 nav li a {
-  color: #004de6;
+  color: #245580;
   text-decoration: none;
   font-size: 18px;
   font-weight: bold;
@@ -30,7 +30,7 @@ nav li a {
   padding-bottom: 5px;
   margin-left: 7px;
   margin-right: 7px;
-  border-bottom: 2px solid #4c9cf1;
+  border-bottom: 2px solid #245580;
   transition: color 0.3s ease;
 }
 
@@ -47,13 +47,13 @@ header .blog-name {
   display: inline-block;
   text-align: left;
   font-size: 18px;
-  font-family: "Lucida Console", Monaco, monospace;
+  font-family: Georgia, "Times New Roman", serif;
   padding-top: 10px;
 }
 
 
 header .blog-name a {
-  color: #a6a2a0;
+  color: #333333;
   text-decoration: none;
 }
 
@@ -216,7 +216,7 @@ table tbody tr td {
 
 .profile-links a:hover { opacity: 0.7; }
 .profile-links a:focus-visible {
-  outline: 2px solid #004de6;
+  outline: 2px solid #245580;
   outline-offset: 4px;
 }
 
