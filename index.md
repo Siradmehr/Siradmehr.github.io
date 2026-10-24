@@ -2,8 +2,8 @@
 
 ~~~
 <div class="row">
-  <div class="container">
-    <img class="left" src="/assets/me.jpg" height="300" alt="Radmehr Karimian">
+  <div class="container home-profile">
+    <img class="profile-photo" src="/assets/portrait-outdoors.png" width="320" height="320" alt="Radmehr Karimian outdoors in the mountains">
     <p>
       I am an exchange research student at ETH Zurich in <a href="https://odi.inf.ethz.ch/">Niao He's ODI group</a>, working on the topology of diffusion models. Alongside this, I work with <a href="https://physcibench.com/">EPFL's LWE lab</a> on agentic AI for photonic design and scientific workflows. I am also pursuing a master's degree in Statistics at the University of Geneva.
     </p>
@@ -19,7 +19,6 @@
     <p>
       You can reach me at <a href="mailto:rkarimian@ethz.ch">rkarimian@ethz.ch</a>. A copy of my CV is available <a href="/assets/Cv.pdf">here</a>.
     </p>
-    <div style="clear: both"></div>
   </div>
 </div>
 <div class="profile-links" role="group" aria-label="Social profiles">
